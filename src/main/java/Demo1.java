@@ -3,4 +3,5 @@
  */
 public interface Demo1 {
     public String find(int i);
+    public int get();
 }
