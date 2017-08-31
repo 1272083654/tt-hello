@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tt-hello:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tt-hello.war">
+      <element id="artifact" artifact-name="tt-hello:war exploded" />
+    </root>
+  </artifact>
+</component>
